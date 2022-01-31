@@ -33166,7 +33166,7 @@ IU(a){var s,r=this,q=null
 r.a.toString
 s=r.gxH()
 r.a.toString
-return new A.rP(q,q,q,new A.WZ(),q,q,q,q,B.Bs,B.AB,q,q,B.yc,r.gM8(),"Welcome to Flutter",q,B.Fs,B.aI,q,s,q,q,B.fE,!1,!1,!1,!1,r.gLT(),!0,q,q,q,!1,new A.is(r,t.l9))},
+return new A.rP(q,q,q,new A.WZ(),q,q,q,q,B.Bs,B.AB,q,q,B.yc,r.gM8(),"Flutter_Wards",q,B.Fs,B.aI,q,s,q,q,B.fE,!1,!1,!1,!1,r.gLT(),!0,q,q,q,!1,new A.is(r,t.l9))},
 W(a,b){var s=null,r=A.Lr(!1,!1,this.IU(b),s,s,s,!0,s,s,new A.X_(),s,s)
 this.a.toString
 return new A.zY(B.t_,new A.jT(A.e(this.d,"_heroController"),r,s),s)}}
